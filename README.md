@@ -1,8 +1,9 @@
 # Red-Wine-Quality
 
-Hello All.
 
-Here is the visualization part of various dependencies of quality of wine from [RED WINE QUALITY dataset]( https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) . And also I have done some analysis on the deciding factors of the quality of Red wine.It is a detaild explaination.
+
+Here is the visualization part of various dependencies of quality of wine from [**RED WINE QUALITY dataset** (_P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
+Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009._)]( https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) . And also I have done some analysis on the deciding factors of the quality of Red wine.It is a detaild explaination.
 
 You can find two .R file. 1st run all the lines of both the files once. This time ignore all the warnings and errors.
 Next run again the code , now try to understand the codes , you can easily understand and get all plots. Though some plots may take time to arrive please wait for soemtime if anyplot shows no error but just warning . I guess in the middle portion you may struggle to get some plots . I am providing all the plots here too. 
