@@ -76,32 +76,35 @@ Also, the use of BIC (Bayesian Information Criterion) for model selection in mea
 ![example_image](visualization_R/Rplot03.png)
 - [x] 05
 ![example_image](visualization_R/Rplot04.png)
-- [x] 06
+
+<!-- - [x] 06
 ![example_image](visualization_R/Rplot05.png)
 - [x] 07
 ![example_image](visualization_R/Rplot06.png)
 - [x] 08
-![example_image](visualization_R/Rplot07.png)
+![example_image](visualization_R/Rplot07.png) -->
+
 - [x] 09
 ![example_image](visualization_R/Rplot08.png)
-- [x] 10
+
+<!-- - [x] 10
 ![example_image](visualization_R/Rplot09.png)
 - [x] 11
-![example_image](visualization_R/Rplot10.png)
-- [x] 12
+![example_image](visualization_R/Rplot10.png) -->
 
+- [x] 12
 ![example_image](visualization_R/Rplot11.png)
-- [x] 13
-![example_image](visualization_R/Rplot12.png)
+<!-- - [x] 13
+![example_image](visualization_R/Rplot12.png) -->
 - [x] 14
 ![example_image](visualization_R/Rplot13.png)
-- [x] 15
+<!-- - [x] 15
 ![example_image](visualization_R/Rplot14.png)
 - [x] 16
-![example_image](visualization_R/Rplot15.png)
+![example_image](visualization_R/Rplot15.png) -->
 - [x] 17
 ![example_image](visualization_R/Rplot16.png)
-- [x] 18
+<!-- - [x] 18
 ![example_image](visualization_R/Rplot17.png)
 - [x] 19
 ![example_image](visualization_R/Rplot18.png)
@@ -110,8 +113,8 @@ Also, the use of BIC (Bayesian Information Criterion) for model selection in mea
 - [x] 21
 ![example_image](visualization_R/Rplot20.png)
 - [x] 22
+![example_image](visualization_R/Rplot21.png) -->
 
-![example_image](visualization_R/Rplot21.png)
 - [x] 23
 ![example_image](visualization_R/Rplot22.png)
 - [x] 24
@@ -124,21 +127,16 @@ Also, the use of BIC (Bayesian Information Criterion) for model selection in mea
 ![example_image](visualization_R/Rplot26.png)
 - [x] 28
 ![example_image](visualization_R/Rplot27.png)
-- [x] 29
-![example_image](visualization_R/Rplot28.png)
+<!-- - [x] 29
+![example_image](visualization_R/Rplot28.png) -->
 - [x] 30
 ![example_image](visualization_R/Rplot29.png)
-- [x] 31
+<!-- - [x] 31
 ![example_image](visualization_R/Rplot30.png)
-- [x] 32
 
-![example_image](visualization_R/Rplot09.png)
-- [x] 33
-![example_image](visualization_R/Rplot08.png)
-- [x] 34
-![example_image](visualization_R/Rplot09.png)
-- [x] 35
-visualization_R/Rplot02.png
+
+
+
 
 
 
